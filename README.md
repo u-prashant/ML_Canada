@@ -1,3 +1,3 @@
-# ML_Canada
+# ML
 
 Implementing Machine Learning without using libraries.
